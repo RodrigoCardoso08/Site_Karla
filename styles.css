@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(85, 52, 10);
+}
+
+.imageWrapper {
+    position: absolute;
+    top: 0;
+    right: 0px;
+    z-index: -1;
+    overflow: hidden;
+    height: 700px;
+}
+
+.buttonEscritorio{}
+.buttonAreasDeAtuacao{}
+.buttonContato{}
+
+.headerWrapper{
+display: flex;
+  padding-top: 20px;
+  margin: 0px 50px;
+  color: white
+
+}
+
+.headerButtons{
+    display: flex;
+  flex: 4;
+  justify-content: flex-end;
+}
